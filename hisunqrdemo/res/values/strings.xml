@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">二维码演示demo</string>
+    <string name="finder_friend_scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="qr_encoder">二维码编码</string>
+    <string name="qr_decoder">二维码解码</string>
+    <string  name="onlytext">编码成二维码</string>
+    <string name="textandpic">编码中间带图片的二维码</string>
+    <string name="inputtext">输入需要编码的字符</string>
+    <string  name="qr_decoderfromfile">从二维码图片解码</string>
+    <string name="decodebitmap">解码上面的二维码图片</string>
+
+</resources>
