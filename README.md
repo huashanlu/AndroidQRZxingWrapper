@@ -1,0 +1,4 @@
+# AndroidQRZxingWrapper
+
+
+hisunqrdemo 是演示的demo、BarcodeScanner-master是二维码基于zxing的包装sdk、代码完全开源、感觉zxing对开源社区所做的贡献
